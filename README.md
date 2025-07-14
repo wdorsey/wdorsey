@@ -13,7 +13,7 @@ C#, SQL, Git, Visual Studio
 **Advanced:**  
 C, Go, HTML/CSS/JS, GraphQL, Azure DevOps, VS Code
 
-**Exploring:**  
+**Intermediate:**  
 Rust, Cosmos DB, Blazor, Kubernetes, Docker
 
 ---
