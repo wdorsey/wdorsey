@@ -1,6 +1,6 @@
 # Hi, I'm Weston
 
-I'm a Senior Software Engineer with 10+ years of experience building and maintaining high-performance backend systems. I specialize in C#, SQL, and modernizing legacy platforms, with a passion for clean architecture, developer experience, and long-term maintainability.
+I'm a Senior Software Engineer with 10+ years of experience building and maintaining backend systems. I specialize in C#, SQL, and .NET.
 
 - Most of my career has been in large-scale billing, invoicing, and payment systems.
 - My personal projects include a data aggregation project that generates a static website, a single-file virtual file system, and adventures in pure C.
